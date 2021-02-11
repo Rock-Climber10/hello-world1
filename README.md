@@ -1,4 +1,2 @@
-# hello-world1
-Intro program for ISC4U1
-Making changes
-Testing
+# hello-world1, Intro program for ICS4U1
+print ("Hello world!")
